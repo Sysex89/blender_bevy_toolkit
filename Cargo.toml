@@ -14,10 +14,10 @@ smallvec = { version = "1.4", features = ["serde"] }
 glam = { version = "0.20.0" }
 
 [dependencies.bevy]
-version="0.7.0"
+version="0.8.1"
 
 [dependencies.bevy_rapier3d]
-version="0.13.2"
+version="0.17.0"
 
 [dependencies.ron]
-version="0.7.0"
+version="0.8.0"
